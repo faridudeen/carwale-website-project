@@ -1,0 +1,139 @@
+{
+    "product":
+    [
+        {  "choice":[
+        {
+            "price":"under 5 lakh"
+        },
+        {
+            "price":"under 6 lakh"
+        },
+        {
+            "price":"under 7 lakh"
+        },
+        {
+            "price":"under 8 lakh"
+        },
+        {
+            "price":"under 10 lakh"
+        },
+        {
+            "price":"under 15 lakh"
+        },
+        {
+            "price":"under 20 lakh"
+        },
+        {
+            "price":"under 25 lakh"
+        },
+        {
+            "price":"under 30 lakh"
+        },
+        {
+            "price":"luxury cars"
+        }
+    ],
+        "bands":[
+            {
+            "Img":"https://imgd.aeplcdn.com/0X0/n/cw/ec/16/brands/logos/tata.jpg?v=1629973276336&q=80",
+            "Name":"Tata"
+        },
+        {  "Img":"https://imgd.aeplcdn.com/0X0/n/cw/ec/10/brands/logos/maruti-suzuki1647009823420.jpg?v=1647009823707&q=80",
+           "Name":"Maruti Suzuki"
+        },
+        {
+            "Img":"https://imgd.aeplcdn.com/0X0/n/cw/ec/9/brands/logos/mahindra.jpg?v=1629973668273&q=80",
+            "Name":"Mahindra"
+        },
+        {
+            "Img":"https://imgd.aeplcdn.com/0X0/n/cw/ec/17/brands/logos/toyota.jpg?v=1630055705330&q=80",
+            "Name":"Toyoto"
+        },
+        {
+            "Img":"https://imgd.aeplcdn.com/0X0/n/cw/ec/8/brands/logos/hyundai.jpg?v=1629973193722&q=80",
+            "Name":"Hyundai"
+        },
+        {
+            "Img":"https://imgd.aeplcdn.com/0X0/n/cw/ec/1/brands/logos/bmw.jpg?v=1629973130013&q=80",
+            "Name":"BMW"
+        },
+        {
+            "Img":"https://imgd.aeplcdn.com/0X0/n/cw/ec/11/brands/logos/mercedes-benz.jpg?v=1629973270530&q=80",
+            "Name":"Mercedes-Besz"
+        },
+        {
+            "Img":"https://imgd.aeplcdn.com/0X0/n/cw/ec/70/brands/logos/kia.jpg?v=1630057189593&q=80",
+            "Name":"Kia"
+        },
+        {
+            "Img":"https://imgd.aeplcdn.com/0X0/n/cw/ec/23/brands/logos/land-rover1647236056893.jpg?v=1647236057234&q=80",
+            "Name":"Land Rover"
+        },
+        {
+            "Img":"https://imgd.aeplcdn.com/0X0/n/cw/ec/18/brands/logos/audi.jpg?v=1630055874070&q=80",
+            "Name":"Audi"
+        },
+        {
+            "Img":"https://imgd.aeplcdn.com/0X0/n/cw/ec/72/brands/logos/mg.jpg?v=1631163895654&q=80",
+            "Name":"MG"
+        },
+        {
+            "Img":"https://imgd.aeplcdn.com/0X0/n/cw/ec/19/brands/logos/porsche.jpg?v=1631164048727&q=80",
+            "Name":"Porsche"
+        }
+    ],
+
+     "card":[
+
+       { "Image":"https://imgd.aeplcdn.com/664x374/n/cw/ec/106815/creta-exterior-right-front-three-quarter-4.png?isig=0&q=80",
+        "CarName":"Hyundai Creta",
+        "price":" 11.00 Lakh",
+        "ShowRoom":"Avg. Ex-Showroom price"
+    },
+
+    {
+        "Image":"https://imgd.aeplcdn.com/664x374/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80",
+        "CarName":"Mahindra Scorpio N",
+        "price":" 13.60 Lakh",
+        "ShowRoom":"Avg. Ex-Showroom price"
+    },
+    {
+        "Image":"https://imgd.aeplcdn.com/664x374/n/cw/ec/130591/fronx-exterior-right-front-three-quarter-109.jpeg?isig=0&q=80",
+        "CarName":"Maruti Fronx",
+        "price":" 7.51 Lakh",
+        "ShowRoom":"Avg. Ex-Showroom price"
+    },
+    {
+        "Image":"https://imgd.aeplcdn.com/664x374/n/cw/ec/40087/thar-exterior-right-front-three-quarter-35.jpeg?isig=0&q=80",
+        "CarName":"Mahindra Thar",
+        "price":" 11.25 Lakh",
+        "ShowRoom":"Avg. Ex-Showroom price"
+    },
+    {
+        "Image":"https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-exterior-right-front-three-quarter-54.jpeg?isig=0&q=80",
+        "CarName":"Tata Punch",
+        "price":" 7.51 Lakh",
+        "ShowRoom":"Avg. Ex-Showroom price"
+    },{
+        "Image":"https://imgd.aeplcdn.com/664x374/n/cw/ec/107543/brezza-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80",
+        "CarName":"Maruti Brezza",
+        "price":" 8.38 Lakh",
+        "ShowRoom":"Avg. Ex-Showroom price"
+    }
+],
+    "foot":[
+        {
+            "txt":"About Us"
+        },
+        {
+            "txt":"Terms & Condition"
+        },
+        {
+            "txt":"Careers"
+        },
+        {
+            "txt":"Advertise"
+        }
+    ]
+}]
+}
